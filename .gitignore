@@ -1,0 +1,8 @@
+# Compiled output
+*.amx
+samp-files/base.pwn
+
+# System & Editor files
+.vscode/
+.idea/
+*.tmp
